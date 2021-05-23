@@ -21,14 +21,14 @@
 * [Github Repogitory Link](https://github.com/WhyDoThat-career/Data-center)
 * 분석을 위한 Data 관리를 위한 저장소
 * 주요 동작 : 데이터베이스 서비스 및 관리 UI
-- **Kafka-mysql-consumer(데이터센터 하위 프로젝트)**
-    + [Github Repogitory Link](https://github.com/WhyDoThat-career/Kafka-mysql-consumer)
-    + WEB LOG중 특정로그를 선별해서 Mysql로 적재
 
 ## Kafka-server
 * [Github Repogitory Link](https://github.com/WhyDoThat-career/Kafka-server)
 * Zookeeper 및 Kafka 서버 환경 관리
-* 주요 동작 : Stream 동작에서 브로커 역할
+* 주요 동작 : Stream 동작에서 브로커 역할    
+- **Kafka-mysql-consumer(Kafka-server 하위 프로젝트)**
+    + [Github Repogitory Link](https://github.com/WhyDoThat-career/Kafka-mysql-consumer)
+    + WEB LOG중 특정로그를 선별해서 Mysql로 적재
 
 ## Elastic-stack-docker
 * [Github Repogitory Link](https://github.com/WhyDoThat-career/Elastic-stack-docker)
