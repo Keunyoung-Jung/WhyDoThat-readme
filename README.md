@@ -20,8 +20,8 @@
 ## Data-center
 * [Github Repogitory Link](https://github.com/WhyDoThat-career/Data-center)
 * 분석을 위한 Data 관리를 위한 저장소
-* 주요 동작 : 데이터베이스 서비스 및 관리 UI
-**Kafka-mysql-consumer**
+* 주요 동작 : 데이터베이스 서비스 및 관리 UI    
+ * **Kafka-mysql-consumer(**
  * [Github Repogitory Link](https://github.com/WhyDoThat-career/Kafka-mysql-consumer)
  * WEB LOG중 특정로그를 선별해서 Mysql로 적재
 
