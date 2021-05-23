@@ -13,7 +13,7 @@
 * 주요 동작 : API 제공, 백엔드 서비스
 
 ## Nginx-setting
-* [Github Repogitory Link](https://github.com/WhyDoThat-career/niginx-setting)
+* [Github Repogitory Link](https://github.com/WhyDoThat-career/nginx-setting)
 * Nginx 셋팅 구조 저장소
 * 주요 동작 : 배포 환경을 위한 셋팅 관리
 
