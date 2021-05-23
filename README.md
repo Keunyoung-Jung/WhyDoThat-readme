@@ -1,4 +1,6 @@
 # WhyDoThat 프로젝트 github페이지로 이동하는 Readme 입니다.
+## 데이터 파이프라인 참조 이미지
+![pipeline](img/pipeline.png)
 ## Career-scrapy-schduler
 * [Github Repogitory Link](https://github.com/WhyDoThat-career/career-scrapy-schduler)
 * Scrapy로 동작하는 크롤러 저장소
